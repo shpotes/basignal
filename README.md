@@ -1,4 +1,4 @@
-# basignal
+# Basignal
 Frequency analysis of pre-basecaller Oxford nanopore data
 
 
